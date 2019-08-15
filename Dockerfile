@@ -1,5 +1,5 @@
-FROM kmubigdata/ubuntu-1604
-MAINTAINER kimjeongchul
+FROM docker-brew-ubuntu-core/xenial
+MAINTAINER sungminyun
 
 USER root
 
