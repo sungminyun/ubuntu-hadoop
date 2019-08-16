@@ -1,4 +1,4 @@
-FROM docker-brew-ubuntu-core/xenial
+FROM ubuntu:16.04
 MAINTAINER sungminyun
 
 USER root
